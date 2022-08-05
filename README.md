@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+github!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7EA1F&lines=Heey!%2C+soy+Alberto!)](https://git.io/typing-svg)
 
 <h1 align="center">¡Hey, me presento, soy Alberto!</h1>
 
