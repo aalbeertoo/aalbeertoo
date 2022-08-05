@@ -25,8 +25,8 @@ Discord of support: https://discord.gg/alberto
 
 
 
-Mis estadisticas!!
+<h1 align="center">Estadisticas:</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbeertoo-az&show_icons=true&locale=en&layout=compact" alt="aalbeertoo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbeertoo&show_icons=true&locale=en&layout=compact" alt="aalbeertoo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalbeertoo&show_icons=true&locale=en" alt="aalbeertoo" /></p>
