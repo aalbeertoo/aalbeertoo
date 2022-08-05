@@ -1,17 +1,24 @@
-- 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚, 𝙄❜𝙢 𝘼𝙡𝙗𝙚𝙧𝙩𝙤
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+github!)](https://git.io/typing-svg)
 
-- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗼:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7EA1F&lines=Heey!%2C+soy+Alberto!)](https://git.io/typing-svg)
 
-* LUA 🍇
+<h1 align="center">¡Hey, me presento, soy Alberto!</h1>
 
-* JS (Learning) 👀
+𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗼:
 
-* CSS 🧊
+LUA 🍇
 
-* HTML 🍍
+JS (Learning) 👀
 
+CSS 🧊
 
-𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫: https://discord.gg/alberto
+HTML 🍍
+<p align="center">
+</p>
 
-𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐏𝐞𝐫𝐟𝐢𝐥: https://discord.com/users/943886806716416050
+Mis estadisticas!!
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbeertoo-az&show_icons=true&locale=en&layout=compact" alt="aalbeertoo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalbeertoo&show_icons=true&locale=en" alt="aalbeertoo" /></p>
