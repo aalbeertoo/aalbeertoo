@@ -16,7 +16,7 @@ HTML 🍍
 <p align="center">
 </p>
 
-Discord of support: https://discord.gg/alberto
+
 
 
 
